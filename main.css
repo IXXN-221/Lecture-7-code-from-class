@@ -1,0 +1,20 @@
+#one{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+button{
+    width: 90px;
+    height: 30px;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+.larry{
+    background-color: red;
+}
